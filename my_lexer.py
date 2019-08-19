@@ -6,4 +6,4 @@ from sly import Lexer
 
 
 class primeLexer(Lexer):
-    tokens = {NAME, NUMBER, STRING, IF, THEN, ELSE ,FOR, FUN, TO, ARROW, EQEQ};
+    tokens = {NAME, NUMBER, STRING, IF, THEN, ELSE ,FOR, FUN, TO, ARROW, EQEQ}
